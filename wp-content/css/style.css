@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document */
+#mt-slider-frame {
+	background-image: url('_00f0.html?php%20echo%20$baseURL%20?>/wp-content/themes/MedicalDoctor/images/patterns/medicaldoctor.jpg')!important;
+	background-repeat: repeat;
+	background-position: center top
+}
+#mt-slider-frame {
+	background-position: center center!important
+}
+
+#mega_main_menu.primary>.menu_holder>.menu_inner>ul>li:hover>.item_link, #mega_main_menu.primary>.menu_holder>.menu_inner>ul>li>.item_link:hover, #mega_main_menu.primary>.menu_holder>.menu_inner>ul>li>.item_link:focus, #mega_main_menu.primary>.menu_holder>.menu_inner>ul>li.current-menu-ancestor>.item_link, #mega_main_menu.primary>.menu_holder>.menu_inner>ul>li.current-menu-item>.item_link {
+	border-color: #1d7ab9!important
+}
+#mega_main_menu.primary > .menu_holder > .menu_inner > ul > li:hover > .item_link, #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link:hover, #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li > .item_link:focus, #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li:hover > .item_link *, #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-ancestor > .item_link, #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-ancestor > .item_link *, #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-item > .item_link, #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li.current-menu-item > .item_link *, #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li .mega_dropdown .item_link:hover *, #mega_main_menu.primary > .menu_holder > .menu_inner > ul > li .mega_dropdown .item_link:focus *, #mega_main_menu.primary ul li.default_dropdown .mega_dropdown > li:hover > .item_link *, #mega_main_menu.primary ul li.default_dropdown .mega_dropdown > li.current-menu-item > .item_link *, #mega_main_menu.primary ul li.multicolumn_dropdown .mega_dropdown > li > .item_link:hover *, #mega_main_menu.primary ul li.multicolumn_dropdown .mega_dropdown > li.current-menu-item > .item_link *, #mega_main_menu.primary ul li.post_type_dropdown .mega_dropdown > li:hover > .item_link *, #mega_main_menu.primary ul li.post_type_dropdown .mega_dropdown > li.current-menu-item > .item_link *, #mega_main_menu.primary ul li.grid_dropdown .mega_dropdown > li:hover > .item_link *, #mega_main_menu.primary ul li.grid_dropdown .mega_dropdown > li a:hover *, #mega_main_menu.primary ul li.grid_dropdown .mega_dropdown > li.current-menu-item > .item_link *, #mega_main_menu.primary ul li.post_type_dropdown .mega_dropdown>li>.processed_image:hover>.cover>a>i {
+	color: #1d7ab9!important
+}
+.current-menu-item .item_link {
+	background-color: #1d7ab9!important
+}
+.onsale {
+	background-color: #1d7ab9!important
+}
+span.current {
+	color: #1d7ab9!important
+}
+.cl-effect-11 a, .cl-effect-11 a::before {
+	border-top-color: #1d7ab9!important
+}
+.cl-effect-10 a::before, .cl-effect-13 a:hover, .cl-effect-13 a:focus, .cl-effect-17 a::before, .cl-effect-21 a:hover, .cl-effect-21 a:focus {
+	color: #1d7ab9!important
+}
+.cl-effect-13 a:hover::before, .cl-effect-13 a:focus::before {
+	color: #1d7ab9!important;
+	text-shadow: 10px 0 #1d7ab9, -10px 0 #1d7ab9!important
+}
+.cl-effect-2 a:hover {
+	color: white!important
+}
+.csstransforms3d .cl-effect-2 a span::before, .cl-effect-6 a::before, .cl-effect-6 a::after, .cl-effect-7 a::before, .cl-effect-7 a::after, .cl-effect-9 a::before, .cl-effect-9 a::after, .cl-effect-14 a::before, .cl-effect-14 a::after, .cl-effect-17 a::after, .cl-effect-18 a::before, .cl-effect-18 a::after, .cl-effect-19 a span, .csstransforms3d .cl-effect-19 a span::before .cl-effect-19 a:hover span, .cl-effect-19 a:focus span, .csstransforms3d .cl-effect-19 a:hover span::before, .csstransforms3d .cl-effect-19 a:focus span::before, .cl-effect-21 a::before, .cl-effect-21 a::after {
+background-color:#1d7ab9!important
+}
+.glass-dark .glass-arrows:hover, .glass-dark .glass-arrows-right:hover, .glass-dark .glass-title a:hover, .glass-arrows:hover, .glass-arrows-right:hover, .glass-arrows-pause:hover, .glass-arrows-play:hover, .glass-title a:hover {
+	background-color: #1d7ab9!important;
+	color: white!important;
+	border-color: #1d7ab9!important
+}
+.mt_donation_button {
+	background-color: #1d7ab9
+}
+#mb_home_button_home, #mb_home_button:hover, ul.sf-menu li.current-cat > a, div.sf-menu ul li.current-cat > a, ul.sf-menu li.current-menu-item > a, div.sf-menu ul li.current-menu-item > a, ul.sf-menu li.current_page_item > a, div.sf-menu ul li.current_page_item > a, ul.sf-menu li.current-menu-ancestor > a, div.sf-menu ul li.current-menu-ancestor > a, ul.sf-menu li a:hover, div.sf-menu ul li a:hover, .single-post #nav ul li.blogbutton a, .single-portfolio #nav ul li.portfoliobutton a, .mt_style_header_2 .sf-menu ul li.current-cat > a, .mt_style_header_2 .sf-menu ul li.current_page_item > a, .mt_style_header_2 .sf-menu ul li.current-menu-item > a, .mt_style_header_2 .sf-menu ul li a:hover, .mt_style_header_2 .sf-menu ul li.current-menu-ancestor > a, .mt_style_header_3 .sf-menu ul li.current-cat > a, .mt_style_header_3 .sf-menu ul li.current_page_item > a, .mt_style_header_3 .sf-menu ul li.current-menu-item > a, .mt_style_header_3 .sf-menu ul li a:hover, .mt_style_header_3 .sf-menu ul li.current-menu-ancestor>a {
+	border-top-color: #1d7ab9;
+	color: #1d7ab9!important
+}
+.mt_style_header_2 .sf-menu li.current-cat > a, .mt_style_header_2 .sf-menu li.current_page_item > a, .mt_style_header_2 .sf-menu li.current-menu-item > a, .mt_style_header_2 .sf-menu li a:hover, .mt_style_header_2 .sf-menu li.current-menu-ancestor>a {
+	background-color: #1d7ab9;
+	color: white!important
+}
+.mt_style_header_3 .sf-menu li.current-cat > a, .mt_style_header_3 .sf-menu li.current_page_item > a, .mt_style_header_3 .sf-menu li.current-menu-item > a, .mt_style_header_3 .sf-menu li a:hover, .mt_style_header_3 .sf-menu li.current-menu-ancestor>a {
+	background-color: #1d7ab9;
+	color: white!important
+}
+ul.sf-menu li.current-cat > a, div.sf-menu ul li.current-cat > a, ul.sf-menu li.current-menu-item > a, div.sf-menu ul li.current-menu-item > a, ul.sf-menu li.current_page_item > a, div.sf-menu ul li.current_page_item > a, ul.sf-menu li.current-menu-ancestor > a, div.sf-menu ul li.current-menu-ancestor > a, ul.sf-menu li a:hover, div.sf-menu ul li a:hover, a:hover, input:hover, #full-page-home div div ul li a:hover, .menu_categories ul li ul li a:hover, #full-page-home div div ul li ul li a:hover, .meta-date-blog a:hover, .meta-category-blog a:hover, .meta-author-blog a:hover, .meta-tags-blog a:hover, .meta-comment-blog a:hover, .line-breadcrumb-ultra p a:hover, .line-title-ultra p a:hover, .comment-author.vcard a:hover, #title-right-single a div:hover, .reply a:hover, .logged-in-as a:hover, #post-link-button a:hover, .homepage-blog-post-meta a:hover, .search-input:hover, ul#filter a:hover, .portfolio_link:hover, .more-link-2 a:hover, .more-diva-2 a:hover, .entry-title a:hover, #sub-footer a:hover, ul#filterm li.current a, ul#filterm li a:hover, .menu_categories .current-cat a, .menu_categories ul li:hover a, .footer_widget_midle ul li a:hover, p.price .amount {
+	color: #1d7ab9!important
+}
+ul.sf-menu ul li.current-cat > a, div.sf-menu ul ul li.current-cat > a, ul.sf-menu ul li.current_page_item > a, div.sf-menu ul ul li.current_page_item > a, ul.sf-menu ul li.current-menu-item > a, div.sf-menu ul ul li.current-menu-item > a, ul.sf-menu ul li.current-menu-ancestor > a, div.sf-menu ul ul li.current-menu-ancestor > a, ul.sf-menu ul ul li.current-cat > a, div.sf-menu ul ul ul li.current-cat > a, ul.sf-menu ul ul li.current-menu-item > a, div.sf-menu ul ul ul li.current-menu-item > a, ul.sf-menu ul ul li.current_page_item > a, div.sf-menu ul ul ul li.current_page_item > a, ul.sf-menu ul ul li.current-menu-ancestor > a, div.sf-menu ul ul ul li.current-menu-ancestor > a, ul.sf-menu ul li a:hover, div.sf-menu ul ul li a:hover {
+	border-bottom-color: #1d7ab9;
+	color: #1d7ab9!important
+}
+.port-file-3 .more-link span:hover, .post-format-image, .post-format-image-quote, .post-format-image-video, .post-format-image-image, .post-format-image-link, .post-format-image-gallery, .entry-meta .more-link span:hover, .more-link.mt-donate-link span, .ewd_form input[type="submit"]:hover, #mb-content .wpcf7-submit:hover, .pagination-link span:hover, #tribe-bar-form .tribe-bar-submit input[type=submit], .tribe-events-read-more:hover, .tribe-events-nav-left a:hover, .tribe-events-list .tribe-events-event-cost span, .tribe-events-cost, .tribe-events-back a:hover, .tribe-events-nav-previous a:hover, .tribe-events-nav-next a:hover, .tribe-events-widget-link a:hover, table.tribe-events-calendar th, #easy_widget_form .easy-submit .easybutton, #easyFrontendFormular .easy-button, #showCalender td.calendar-cell.calendar-cell-empty, .single_add_to_cart_button:hover, .woocommerce-message a:hover, .button.wc-forward:hover {
+	background-color: #1d7ab9!important;
+	color: white!important
+}
+.dark-background, #header-title, .dark-background-2, .wpb_button:hover, #mb-content .form-submit #submit:hover, .progress-striped .bar, .grid figcaption a {
+	background-color: #1d7ab9!important
+}
+.port-file-3 .more-link span:hover, .wpb_button:hover, #mb-content .wpcf7-submit:hover, .entry-meta .more-link span:hover, .mt_donation_button, #mb-content .form-submit #submit:hover, .more-link.mt-donate-link span, .ewd_form input[type="submit"]:hover, .grid figcaption a, #tribe-bar-form .tribe-bar-submit input[type=submit], .tribe-events-read-more:hover, .tribe-events-nav-left a:hover, .tribe-events-back a:hover, .tribe-events-nav-previous a:hover, .tribe-events-nav-next a:hover, .tribe-events-widget-link a:hover, #tribe-events-content table.tribe-events-calendar, #tribe-events-content .tribe-events-calendar td, #easy_widget_form .easy-submit .easybutton, #easyFrontendFormular input.easy-button {
+	border-color: #1d7ab9!important
+}
+#mt_3d_slider #viewport, #mt_3d_slider #box, #mt_3d_slider .slide, #slider-nivo, #slider_image {
+	height: px!important
+}
+#mt_3d_slider #time-indicator {
+	top: px!important
+}
+.nav li a strongs, #title-button, .nivo-caption-bg h1, .tp-simpleresponsive .caption, .mega_dropdown .post_title {
+	font-family: 'Open Sans', sans-serif
+}
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, #title-left h1, .entry-title p, .entry-title p, #tribe-bar-form label {
+	font-family: 'Open Sans', sans-serif
+}
+
+.recentcomments a {
+	display: inline !important;
+	padding: 0 !important;
+	margin: 0 !important
+}
+
+#mb_home_button {
+	background: rgba(19, 19, 19, 0.3)!important
+}
+
+#nav_1 {
+    position: relative;
+    z-index: 99999;
+}
